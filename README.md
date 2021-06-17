@@ -1,3 +1,3 @@
 # wiki-tests
 
-[sub1](sub1.md)
+[sub1](pages/sub1.md)
