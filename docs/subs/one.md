@@ -7,5 +7,5 @@ This is the first sub page.
 * [back home (absolute)](/index.md)
 * [back home (absolute)](/docs/index.md)
 * [back home (absolute)](/)
-* [back home (absolute)](/wiki-test/)
-* [back home (absolute)](/wiki-test/index.md)
+* [back home (absolute)](/wiki-tests/)
+* [back home (absolute)](/wiki-tests/index.md)
