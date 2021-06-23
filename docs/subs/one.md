@@ -12,4 +12,8 @@ This is the first sub page.
 
 ## Math
 
-This $\sqrt{k}$ should be inline math.
+This $`\sqrt{k}`$ should be inline math.
+
+```math
+e^{\pi i} = -1
+```
