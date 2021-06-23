@@ -9,3 +9,7 @@ This is the first sub page.
 * [back home (absolute)](/)
 * [back home (absolute)](/wiki-tests/)
 * [back home (absolute)](/wiki-tests/index.md)
+
+## Math
+
+This $\sqrt{k}$ should be inline math.
